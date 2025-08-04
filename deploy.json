@@ -1,0 +1,24 @@
+{
+  "name": "SmartTaskAI",
+  "description": "Intelligent Task Manager with AI-powered features",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": {
+      "description": "Your Supabase project URL",
+      "value": "https://your-project-id.supabase.co"
+    },
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": {
+      "description": "Your Supabase anonymous key",
+      "value": "your-supabase-anon-key"
+    },
+    "NEXT_PUBLIC_GEMINI_API_KEY": {
+      "description": "Your Google Gemini AI API key",
+      "value": "your-gemini-api-key"
+    }
+  },
+  "build": {
+    "env": {
+      "NEXT_TELEMETRY_DISABLED": "1"
+    }
+  }
+}
