@@ -5,15 +5,15 @@
   "env": {
     "NEXT_PUBLIC_SUPABASE_URL": {
       "description": "Your Supabase project URL",
-      "value": "https://your-project-id.supabase.co"
+      "value": "https://ggteprtilnjjqpurwsim.supabase.co"
     },
     "NEXT_PUBLIC_SUPABASE_ANON_KEY": {
       "description": "Your Supabase anonymous key",
-      "value": "your-supabase-anon-key"
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdndGVwcnRpbG5qanFwdXJ3c2ltIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQyMTYwMTYsImV4cCI6MjA2OTc5MjAxNn0.ufbgiEzQPb2YUFA1eGL7TNiZEcmsfYSNDn0jg6vIeZo"
     },
     "NEXT_PUBLIC_GEMINI_API_KEY": {
       "description": "Your Google Gemini AI API key",
-      "value": "your-gemini-api-key"
+      "value": "AIzaSyD6k2CjGaccl1PVs2hIEYz6vHaHlCWUK5U"
     }
   },
   "build": {
